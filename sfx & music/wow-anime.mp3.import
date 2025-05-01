@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://62e674gpp7qv"
+path="res://.godot/imported/wow-anime.mp3-16784e2244161cbe5fcd588e241e78e4.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/wow-anime.mp3"
+dest_files=["res://.godot/imported/wow-anime.mp3-16784e2244161cbe5fcd588e241e78e4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

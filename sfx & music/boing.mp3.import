@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://b86lnmj6tje5y"
+path="res://.godot/imported/boing.mp3-7e9481e8bcec3dab05bf74c443564100.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/boing.mp3"
+dest_files=["res://.godot/imported/boing.mp3-7e9481e8bcec3dab05bf74c443564100.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

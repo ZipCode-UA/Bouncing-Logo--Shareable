@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dlorcq58ogwux"
+path="res://.godot/imported/yipeeee.mp3-4bac1e7f2ab67c933989891075071212.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/yipeeee.mp3"
+dest_files=["res://.godot/imported/yipeeee.mp3-4bac1e7f2ab67c933989891075071212.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

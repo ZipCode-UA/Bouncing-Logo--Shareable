@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cmd5bujo5e20i"
+path="res://.godot/imported/eagle-screech.mp3-637544ff86b86b9d9cb125a9353a8da1.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/eagle-screech.mp3"
+dest_files=["res://.godot/imported/eagle-screech.mp3-637544ff86b86b9d9cb125a9353a8da1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djvvx27yy5u22"
+path="res://.godot/imported/train-whistle.mp3-a219d8a7c070e29f78472bad2474a53f.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/train-whistle.mp3"
+dest_files=["res://.godot/imported/train-whistle.mp3-a219d8a7c070e29f78472bad2474a53f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

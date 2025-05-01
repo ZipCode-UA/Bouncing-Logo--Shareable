@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bm7gh3stv76qh"
+path="res://.godot/imported/honk-mimimi.mp3-9b158bd14d29b8ea57e7c524a91a57cc.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/honk-mimimi.mp3"
+dest_files=["res://.godot/imported/honk-mimimi.mp3-9b158bd14d29b8ea57e7c524a91a57cc.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

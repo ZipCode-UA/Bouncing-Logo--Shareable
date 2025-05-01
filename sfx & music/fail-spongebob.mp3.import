@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cg23hrng4jyc0"
+path="res://.godot/imported/fail-spongebob.mp3-8f6fad4e13cd914b7bc10eef73b4b09d.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/fail-spongebob.mp3"
+dest_files=["res://.godot/imported/fail-spongebob.mp3-8f6fad4e13cd914b7bc10eef73b4b09d.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

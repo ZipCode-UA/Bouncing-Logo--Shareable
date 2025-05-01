@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dytp45h4kg0jn"
+path="res://.godot/imported/lego-breaking.mp3-f9a79153a4d6ae0b73a2559ea2b12a59.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/lego-breaking.mp3"
+dest_files=["res://.godot/imported/lego-breaking.mp3-f9a79153a4d6ae0b73a2559ea2b12a59.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

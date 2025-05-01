@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dogi681vwbafs"
+path="res://.godot/imported/dong-taco-bell.mp3-8b812242dccae4bc94f852c0f7775915.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/dong-taco-bell.mp3"
+dest_files=["res://.godot/imported/dong-taco-bell.mp3-8b812242dccae4bc94f852c0f7775915.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

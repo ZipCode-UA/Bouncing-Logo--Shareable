@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bl6iruu2kysm0"
+path="res://.godot/imported/horn-old-car.mp3-5691dc359847826c93275dc48571724c.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/horn-old-car.mp3"
+dest_files=["res://.godot/imported/horn-old-car.mp3-5691dc359847826c93275dc48571724c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

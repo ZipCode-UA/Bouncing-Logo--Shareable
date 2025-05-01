@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://f04av26wlcld"
+path="res://.godot/imported/coin-mario.mp3-ded5e5d81000a125e9f90b69483f1ad4.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/coin-mario.mp3"
+dest_files=["res://.godot/imported/coin-mario.mp3-ded5e5d81000a125e9f90b69483f1ad4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

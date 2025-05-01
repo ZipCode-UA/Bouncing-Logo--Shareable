@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgeqexa0tq1pl"
+path="res://.godot/imported/running-cartoon.mp3-b014fe737d16c35bd9769b12fc78ad95.mp3str"
+
+[deps]
+
+source_file="res://sfx & music/running-cartoon.mp3"
+dest_files=["res://.godot/imported/running-cartoon.mp3-b014fe737d16c35bd9769b12fc78ad95.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
