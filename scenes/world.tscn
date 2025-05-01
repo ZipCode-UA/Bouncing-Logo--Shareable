@@ -50,4 +50,4 @@ shape = SubResource("RectangleShape2D_gv5m4")
 
 [node name="Character" parent="." instance=ExtResource("1_nnsk1")]
 z_index = 1
-position = Vector2(768, 344)
+position = Vector2(740, 344)
