@@ -2,7 +2,7 @@
 
 [ext_resource type="Texture2D" uid="uid://6r8m83hlyhuv" path="res://assets/ZipCode-Logo.png" id="1_agfs1"]
 [ext_resource type="Script" uid="uid://3n78wd2hkuwm" path="res://scripts/character.gd" id="1_rkhd4"]
-[ext_resource type="AudioStream" uid="uid://codvmbai2uhsn" path="res://sfx & music/correct.mp3" id="3_lrhn5"]
+[ext_resource type="AudioStream" uid="uid://b2jcxiuuid7vs" path="res://sfx & music/metal-pipe-clang.mp3" id="3_lrhn5"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_g2els"]
 size = Vector2(400, 400)
